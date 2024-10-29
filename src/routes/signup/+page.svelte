@@ -11,6 +11,7 @@
 	$: if (form?.message !== '') {
 		isSpinner = false;
 	}
+
 	let isSpinner = false;
 </script>
 
